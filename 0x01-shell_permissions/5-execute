@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 hello
+chmod 777 ls -ld /alx-system_engineering-devops/0x01-shell_permissions/hello
