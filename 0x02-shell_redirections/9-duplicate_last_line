@@ -1,2 +1,2 @@
 #!/bin/bash
-cp "$(ls-l /alx-system_engineering-devops/0x02-shell_redirections/iacta |head tail +1)" /alx-system_engineering-devops/0x02-shell_redirections/iacti
+tail -1 iacta>>iacta
